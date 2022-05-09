@@ -1,0 +1,39 @@
+cd..    // pushed inside base folder
+
+ls      // list of folder have in specific location
+
+cd Desktop
+
+cd void
+
+cd "Git commands"
+
+cd ..            // go back only to one floder
+
+cd               // go back to base folder
+
+cd Desktop/void/"Git commands"          // accessing location in one command
+
+git init        // initialise an empty inside folder structure
+
+git status      // gives status of our git
+
+git add .        // add mutliple files which inside specific repo
+
+git status
+
+git commit -m 'Initial commit'     // it moves this file to working folder inside staging area
+                                   // staging area = virtual space where code goes and remains there until you
+                                   // push your code to a specific repository online.
+
+git status
+
+git diff                         // gives changes inside working file and staging area
+
+
+
+
+
+
+
+

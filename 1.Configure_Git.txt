@@ -1,0 +1,20 @@
+git --version     // check version after installing..
+
+
+git config --list    // list all the configuration
+
+
+git config --global user.name "Amandeep Mewar"              // set user name globally 
+ 
+git config --global user.email amanmewar1718@gmail.com      // set user email globally
+
+git config user.name "Amandeep"                             // set locally
+
+git config user.email amanmewar1718@gmail.com               // set locally
+
+
+git help                   
+
+
+git help config                         // help in config
+
