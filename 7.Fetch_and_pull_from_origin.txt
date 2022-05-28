@@ -1,0 +1,5 @@
+git pull
+
+git fetch origin  //fetch the branch you dont have locally
+
+git checkout Branch_Name   // switches to Branch_name branch

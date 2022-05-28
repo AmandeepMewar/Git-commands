@@ -1,0 +1,15 @@
+git checkout master
+
+git merge Branch_Name
+
+git add .
+
+git commit -m "Merged Branch_Name branch to master"
+
+git push
+
+git branch -d Branch_Name   //delete branch
+
+git push origin Branch_Name
+
+git branch -D Branch_Name   //deletes branches without giving any warning 

@@ -1,0 +1,5 @@
+git rm filename  // remove a file
+
+git mv filename newfilename   //rename a file
+
+git rm --cached filename       //

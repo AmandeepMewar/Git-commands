@@ -1,0 +1,10 @@
+git checkout -b alpha  // creates a new branch and switches to it
+
+git checkout master   // switches to "master" branch
+
+git branch   // list of all branches
+
+git checkout -b beta     //creates a new branch and switches to it
+
+git push --set-upstream origin alpha    // to push to the code
+

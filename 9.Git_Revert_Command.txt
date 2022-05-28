@@ -1,0 +1,7 @@
+git revert commit_id
+
+//:q to quit
+
+git revert HEAD~3    // to get revert by 3 commits
+
+  
