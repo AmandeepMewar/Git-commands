@@ -6,3 +6,14 @@ git push
 
 git rm --cached fileName  // removes the file
 
+
+
+// to ignore a file commit earlier
+
+git rm -r --cached .    // remove the files
+
+git add .               // adding unwanted removals
+
+git commit -m "Clean up ignored files"
+
+git push
